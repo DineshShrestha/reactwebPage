@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactwebPage/static/css/main.4d467896.chunk.css",
+    "main.js": "/reactwebPage/static/js/main.b2160d08.chunk.js",
+    "main.js.map": "/reactwebPage/static/js/main.b2160d08.chunk.js.map",
+    "runtime-main.js": "/reactwebPage/static/js/runtime-main.ccefeb8b.js",
+    "runtime-main.js.map": "/reactwebPage/static/js/runtime-main.ccefeb8b.js.map",
+    "static/js/2.c15f7820.chunk.js": "/reactwebPage/static/js/2.c15f7820.chunk.js",
+    "static/js/2.c15f7820.chunk.js.map": "/reactwebPage/static/js/2.c15f7820.chunk.js.map",
+    "index.html": "/reactwebPage/index.html",
+    "static/css/main.4d467896.chunk.css.map": "/reactwebPage/static/css/main.4d467896.chunk.css.map",
+    "static/js/2.c15f7820.chunk.js.LICENSE.txt": "/reactwebPage/static/js/2.c15f7820.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/reactwebPage/static/media/svg-1.198c8835.svg",
+    "static/media/svg-2.svg": "/reactwebPage/static/media/svg-2.5f11287c.svg",
+    "static/media/svg-3.svg": "/reactwebPage/static/media/svg-3.9ae5ce51.svg",
+    "static/media/video.d48e2181.mp4": "/reactwebPage/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccefeb8b.js",
+    "static/js/2.c15f7820.chunk.js",
+    "static/css/main.4d467896.chunk.css",
+    "static/js/main.b2160d08.chunk.js"
+  ]
+}
